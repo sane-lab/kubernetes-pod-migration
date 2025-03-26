@@ -68,6 +68,8 @@ A **proof-of-concept** live migration system that:
 - Preserves **process state, memory, and metadata** across nodes.
 - Supports **multi-container Pods** without intrusive modifications in Kubernetes.
 
+The design document for one of the PoCs is here: [https://docs.google.com/document/d/1n4tEj2LaNzL7lkq6jqTy4O-3v2dTfrn0lIdWDaeifnM/edit?tab=t.0#heading=h.nxlv0abv8hql](https://docs.google.com/document/d/1n4tEj2LaNzL7lkq6jqTy4O-3v2dTfrn0lIdWDaeifnM/edit?usp=sharing)
+
 ---
 
 ## **Next Steps & Research Directions**
